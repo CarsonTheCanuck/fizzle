@@ -1,0 +1,23 @@
+@import 'pygments-github.css';
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #eee;
+}
+
+body {
+    background-color: #fff;
+    margin: 4rem auto;
+    padding: 1rem;
+    width: 48rem;
+    border: 1px solid #ddd;
+    font-size: 18px;
+}
+
+pre {
+    border: 1px solid #ddd;
+    padding: 1rem;
+}
